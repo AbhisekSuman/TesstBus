@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817243731778",
+    "project_id": "tesstbus",
+    "storage_bucket": "tesstbus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817243731778:android:7b7069881595d84b81badb",
+        "android_client_info": {
+          "package_name": "com.example.tesstbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817243731778-c2rf521pn1i5uqpfd3u7drluc15kuh0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Sr5c1eV8V2goDeqC7ow5taBOhwqHnJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817243731778-c2rf521pn1i5uqpfd3u7drluc15kuh0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

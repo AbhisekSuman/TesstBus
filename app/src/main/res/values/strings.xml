@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesstBus</string>
+    <string name="title_activity_bus1_map">Bus1Map</string>
+    <string name="title_activity_bus2_map">Bus2Map</string>
+</resources>
